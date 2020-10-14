@@ -17,7 +17,7 @@ public static void main (String[]args){
   float average = sum/(positive + negative);
 
  System.out.println("positive");
- System.out.println(negative);
+ System.out.println("negative"+negative);
  System.out.println (sum);
  System.out.println (average);
 
