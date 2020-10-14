@@ -5,7 +5,7 @@ public static void main (String[]args){
   Scanner input = new Scanner(System.in); 
   int negative = 0;
   int positive = 0;
-  int sum = 0; 
+  float sum = 0; 
   int number = input.nextInt();
   while (number !=0) {
     if (number>0){positive++;}
